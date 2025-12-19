@@ -2,10 +2,11 @@
 
 Simple 3-step video generation: Avatar + Product → Video with audio
 
-## 📺 Demo Video
+## 📺 Demo / Walkthrough
 
-[![Watch the demo](https://img.youtube.com/vi/REPLACE_WITH_THUMBNAIL_ID/maxresdefault.jpg)](https://www.loom.com/share/70a24a6833f9417ab6440187b76c462b)
+Watch the demo video:
 
+👉 [Loom Demo](https://www.loom.com/share/70a24a6833f9417ab6440187b76c462b)
 
 ## Setup
 
